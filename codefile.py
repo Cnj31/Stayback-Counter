@@ -94,7 +94,7 @@ def play_fadein_audio(file_path):
 
 
 # ---- Call background and sound ----
-add_bg_from_local("pexels.jpg")
+add_bg_from_local("pexels-raulling-29181477.jpg")
 play_fadein_audio("ocean-waves-266187.mp3")
 
 # ---- Page Config ----
